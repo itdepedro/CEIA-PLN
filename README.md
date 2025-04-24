@@ -16,5 +16,5 @@ Este repositorio contiene los ejercicios correspondientes a la asignatura "Proce
 ### [Clase 4]
 * Entrenamiento de modelos encoder-decoder para la creación de un chatbot de preguntas y respuestas
 
-# Alumgno
+# Alumno
 :octocat: Ing. Ignacio de Pedro Mermier.
