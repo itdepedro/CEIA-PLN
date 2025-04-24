@@ -3,7 +3,7 @@ Este repositorio contiene los ejercicios correspondientes a la asignatura "Proce
 
 ## Contenido
 
-### [Ejercicio 1]
+### [Ejercicio 1]https://github.com/itdepedro/CEIA-PLN/blob/main/ejercicio%201%20-%20vectorizacion%20termino-documento/README.md
 * Vectorización de documentos
 * Entrenamiento de modelos de clasificación Naïve Bayes para documentos y términos
 
