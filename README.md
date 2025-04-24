@@ -10,10 +10,10 @@ Este repositorio contiene los ejercicios correspondientes a la asignatura "Proce
 ### [Ejercicio 2]
 * Utilización de embeddings para entrenamiento de modelos Word2Vec de la librería GenSim
 
-### [Clase 3]
+### [Ejercicio 3]
 * Entrenamiento de modelos recurrentes SRNN, GRU y LSTM para la generación de secuencias de texto
 
-### [Clase 4]
+### [Ejercicio 4]
 * Entrenamiento de modelos encoder-decoder para la creación de un chatbot de preguntas y respuestas
 
 # Alumno
