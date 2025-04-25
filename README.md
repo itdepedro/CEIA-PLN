@@ -1,5 +1,5 @@
 # CEIA-PLN
-Este repositorio contiene los ejercicios correspondientes a la asignatura "Procesamiento Lenguaje Natural" perteneciente a la carrera de especialización en inteligencia artificial de la Facultad de Ingeniería de la Universidad de Buenos Aires (CEIA - FIUBA)
+El presente repositorio contiene los ejercicios correspondientes a la asignatura "Procesamiento Lenguaje Natural" perteneciente a la carrera de especialización en inteligencia artificial de la Facultad de Ingeniería de la Universidad de Buenos Aires (CEIA - FIUBA)
 
 ## Contenido
 
